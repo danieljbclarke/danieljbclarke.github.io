@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/u8sand
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danieljbclarke.github.io
+  * I am u8sand (https://keybase.io/u8sand) on keybase.
+  * I have a public key ASB8OoHuHb_vgVtPX1wB9VlcUnYfwARjxDmvi_-8zYhy0wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207c3a81ee1dbfef815b4f5f5c01f5595c52761fc00463c439af8bffbccd8872d30a",
+      "host": "keybase.io",
+      "kid": "01207c3a81ee1dbfef815b4f5f5c01f5595c52761fc00463c439af8bffbccd8872d30a",
+      "uid": "3a7620729e4bfad094563e92be853b19",
+      "username": "u8sand"
+    },
+    "merkle_root": {
+      "ctime": 1732293143,
+      "hash": "7480445779a42ec4cbefffac3b6df60d8554f121e8d2ff6190cb790edc3f9545c5f994089e30ea93c9fcc7475f68e68f448421073af6265bf5afb16b78668b6a",
+      "hash_meta": "1018c58e44d983036b84328b0a61fe0bea5cd93f5fa4ed8391b469d10f8f3220",
+      "seqno": 26319310
+    },
+    "service": {
+      "entropy": "Y80D6g7JqFPJvF6O7Evegyfi",
+      "hostname": "danieljbclarke.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.0"
+  },
+  "ctime": 1732293237,
+  "expire_in": 504576000,
+  "prev": "7012fa82f9bb04a7732edf2536fc21cc68d4ea63cc25cd7548125cc510a8a0e7",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfDqB7h2/74FbT19cAfVZXFJ2H8AEY8Q5r4v/vM2IctMKp3BheWxvYWTESpcCBcQgcBL6gvm7BKdzLt8lNvwhzGjU6mPMJc11SBJcxRCooOfEIMTpmzjbl6oowbqcH5bgTlLmo9s+mmW2JEN0M9HsjWb4AgHCo3NpZ8RAZ5+ZIICwDDbvMrMIJHRwQE35nDfp9PpkmBHlIaElDmWXvUsRfz3o8ybQuWdTtqU0ifSuGZxcQLEtX9ir/HROCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA5wxOJ0oFUgo0EqXW6+++h9xZlotJ7jZrnfuF2jAHJbo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/u8sand
+
+==================================================================
