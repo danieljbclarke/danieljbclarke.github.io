@@ -7,6 +7,8 @@ description: >
 markdown: kramdown
 gems:
   - jekyll-feed
+include:
+  - .well-known
 exclude:
   - Gemfile
   - Gemfile.lock
