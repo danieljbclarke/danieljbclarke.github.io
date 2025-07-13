@@ -148,7 +148,21 @@ Summer 2013
 
 ---
 
-***Clarke, D. J. B.**, Marino, G. B., Deng, E. Z., Xie, Z., Evangelista, J. E., & Ma’ayan, A. (2023). Rummagene: Mining Gene Sets from Supporting Materials of PMC Publications. Cold Spring Harbor Laboratory. <https://doi.org/10.1101/2023.10.03.560783> (Preprint)*
+***Clarke, D. J. B.**, Marino, G. B., & Ma’ayan, A. (2025). A Gene Set Foundation Model Pre-Trained on a Massive Collection of Diverse Gene Sets. Cold Spring Harbor Laboratory. Preprint: <https://doi.org/10.1101/2025.05.30.657124>*
+
+Marino, G. B., Evangelista, J. E., **Clarke, D. J. B.**, & Ma’ayan, A. (2025). L2S2: chemical perturbation and CRISPR KO LINCS L1000 signature search engine. Nucleic Acids Research, 53(W1), W338–W350. <https://doi.org/10.1093/nar/gkaf373>
+
+**Clarke, D. J. B.**, Evangelista, J. E., Xie, Z., Marino, G. B., Byrd, A. I., Maurya, M. R., Srinivasan, S., Yu, K., Petrosyan, V., Roth, M. E., Milinkov, M., King, C. H., Vora, J. K., Keeney, J., Nemarich, C., Khan, W., Lachmann, A., Ahmed, N., Agris, A., … Ma’ayan, A. (2025). Playbook workflow builder: Interactive construction of bioinformatics workflows. PLOS Computational Biology, 21(4), e1012901. <https://doi.org/10.1371/journal.pcbi.1012901>
+
+Evangelista, J. E., **Clarke, D. J. B.**, Xie, Z., Olaiya, S., Kim, H., Marino, G. B., Byrd, A., Srinivasan, S., Srinivasan, S., Maurya, M. R., Jenkins, S. L., Lutsky, A. D., Sasaya, L., Lachmann, A., Ahmed, N., Diamant, I., Sanchez, E., Ramachandran, S., Subramaniam, S., & Ma’ayan, A. (2025). The CFDE Workbench: Integrating Metadata and Processed Data from Common Fund Programs. Cold Spring Harbor Laboratory. <https://doi.org/10.1101/2025.02.04.636535>
+
+Diamant, I., **Clarke, D. J. B.**, Evangelista, J. E., Lingam, N., & Ma’ayan, A. (2024). Harmonizome 3.0: integrated knowledge about genes and proteins from diverse multi-omics resources. Nucleic Acids Research, 53(D1), D1016–D1028. <https://doi.org/10.1093/nar/gkae1080>
+
+Marino, G. B., **Clarke, D. J. B.**, Lachmann, A., Deng, E. Z., & Ma’ayan, A. (2024). RummaGEO: Automatic mining of human and mouse gene sets from GEO. Patterns, 5(10), 101072. <https://doi.org/10.1016/j.patter.2024.101072>
+
+Deng, E. Z., Marino, G. B., **Clarke, D. J. B.**, Diamant, I., Resnick, A. C., Ma, W., Wang, P., & Ma’ayan, A. (2024). Multiomics2Targets identifies targets from cancer cohorts profiled with transcriptomics, proteomics, and phosphoproteomics. Cell Reports Methods, 4(8), 100839. <https://doi.org/10.1016/j.crmeth.2024.100839>
+
+**Clarke, D. J. B.**, Marino, G. B., Deng, E. Z., Xie, Z., Evangelista, J. E., & Ma’ayan, A. (2024). Rummagene: massive mining of gene sets from supporting materials of biomedical research publications. Communications Biology, 7(1). <https://doi.org/10.1038/s42003-024-06177-7>
 
 Evangelista, J. E., **Clarke, D. J. B.**, Xie, Z., Marino, G. B., Utti, V., Jenkins, S. L., Ahooyi, T. M., Bologa, C. G., Yang, J. J., Binder, J. L., Kumar, P., Lambert, C. G., Grethe, J. S., Wenger, E., Taylor, D., Oprea, T. I., de Bono, B., & Ma’ayan, A. (2023). Toxicology knowledge graph for structural birth defects. In Communications Medicine (Vol. 3, Issue 1). Springer Science and Business Media LLC. <https://doi.org/10.1038/s43856-023-00329-2>
 
